@@ -59,7 +59,7 @@ sections:
         padding:
           - pt-96
           - pb-6
-          - pl-1
+          - pl-4
           - pr-1
         justifyContent: center
       quote:
