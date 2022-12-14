@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 title: Movies Recommender System
 colors: colors-d
 date: '2022-12-14'
