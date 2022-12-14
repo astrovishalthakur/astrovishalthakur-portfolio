@@ -44,6 +44,14 @@ sections:
         icon: github
         iconPosition: left
         elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /jo
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/IMG20210823111640.jpg
