@@ -60,7 +60,6 @@
         "colors": "colors-d",
         "title": "Say hello",
         "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
-        "primaryLinks": [],
         "primaryLinks": [
             {
                 "type": "Link",
