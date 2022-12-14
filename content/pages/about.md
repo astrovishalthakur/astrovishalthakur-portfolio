@@ -38,8 +38,9 @@ sections:
         textAlign: left
   - elementId: ''
     colors: colors-b
-    quote: |2
-          "I'm not smart, I'm just passionately curious."
+    quote: |-
+      <p align="center">"I'm not smart, I'm just passionately curious."
+      </p>
     backgroundImage:
       type: BackgroundImage
       url: /images/bg.webp
