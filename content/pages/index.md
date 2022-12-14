@@ -70,7 +70,7 @@ sections:
         width: wide
         padding:
           - pt-9
-          - pb-36
+          - pb-9
           - pr-4
           - pl-4
         justifyContent: center
