@@ -21,6 +21,21 @@ postFeed:
 styles:
   title:
     textAlign: center
-bottomSections: []
+bottomSections:
+  - type: DividerSection
+    colors: colors-d
+    elementId: ''
+    title: Divider
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-1
+          - pb-1
+          - pl-0
+          - pr-0
+        justifyContent: center
+        borderWidth: 1
+        borderStyle: solid
 addTitleSuffix: true
 ---
