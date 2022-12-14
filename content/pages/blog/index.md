@@ -1,6 +1,6 @@
 ---
 layout: PostFeedLayout
-title: Upcoming adventures
+title: All Blogs and Projects
 numOfPostsPerPage: 10
 postFeed:
   showDate: true
