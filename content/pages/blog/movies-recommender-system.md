@@ -12,7 +12,7 @@ excerpt: >-
   called the recommender system.
 featuredImage:
   type: ImageBlock
-  url: /images/hero.webp
+  url: /images/mov-rec-sys-img-c82824b4.jpg
   altText: Post Image
 media:
   type: ImageBlock
