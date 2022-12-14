@@ -40,7 +40,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Contact us",
+                "label": "Contact me",
                 "url": "mailto:info@lorem.mail",
                 "altText": "Contact us",
                 "style": "secondary",
