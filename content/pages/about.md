@@ -43,7 +43,6 @@ sections:
     actions: []
     people:
       - content/data/team/desmond-eagle.json
-      - content/data/team/hilary-ouse.json
     styles:
       self:
         height: auto
