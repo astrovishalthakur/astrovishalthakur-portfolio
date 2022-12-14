@@ -88,7 +88,7 @@
         "secondaryLinks": [
             {
                 "type": "Link",
-                "label": "Contact me",
+                "label": "mail me",
                 "url": "mailto:astrovishalthakur+portfolio@gmail.com",
                 "altText": "Contact me",
             }
