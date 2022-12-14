@@ -7,7 +7,7 @@ postFeed:
   showAuthor: false
   showExcerpt: false
   showReadMoreLink: true
-  variant: variant-c
+  variant: variant-d
   colors: colors-d
   styles:
     self:
