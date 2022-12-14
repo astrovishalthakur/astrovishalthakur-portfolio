@@ -19,13 +19,7 @@ sections:
     colors: colors-d
     variant: variant-a
     title: About me
-    text: >-
-      For us fishing is a life style. The connection to the waters is what makes
-      us friends, and what makes us a family and it what makes us a business.
-
-
-      We believe there’s a better, more sustainable way to live out of what the
-      sea has to offer, while  keeping our products fresh and delicious.
+    text: "**Hello there! This is Vishal \U0001F64C\U0001F3FD**\n\nI'm a Data Science student based in India. So yeah, I'm a data nerd, and I like sharing knowledge about Data science skills, tech and stuff.\n\nIn my free time, I like watching vlogs and listening to audiobooks. I hope to pursue my masters in Deep Learning with computer vision in focus.\n\n\n"
     styles:
       self:
         height: auto
