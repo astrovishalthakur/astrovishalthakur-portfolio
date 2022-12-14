@@ -28,6 +28,7 @@ sections:
         icon: arrowRight
         style: primary
         url: /blog
+        label: Projects
     media:
       type: ImageBlock
       url: /images/hero-2.png
