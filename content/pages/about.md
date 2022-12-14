@@ -48,10 +48,10 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-12
-          - pb-12
-          - pl-12
-          - pr-12
+          - pt-36
+          - pb-36
+          - pl-36
+          - pr-36
         justifyContent: flex-end
         margin:
           - ml-0
