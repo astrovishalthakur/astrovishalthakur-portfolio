@@ -84,7 +84,10 @@
                 "style": "link",
                 "elementId": ""
             },
-            
+            "type": "Link",
+                "label": "Projects",
+                "url": "/blog",
+                "altText": ""
         ],
         "legalLinks": [],
         "styles": {
