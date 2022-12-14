@@ -2,7 +2,7 @@
     "type": "Person",
     "firstName": "Vishal",
     "lastName": "Thakur",
-    "role": "Senior fisherman + delivery guy",
+    "role": "Student developer",
     "image": {
         "type": "ImageBlock",
         "url": "/images/hugh-saturation.png",
