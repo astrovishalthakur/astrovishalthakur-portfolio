@@ -137,7 +137,7 @@ sections:
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
-    readMoreLinkLabel: Join adventure
+    readMoreLinkLabel: Read more
     showAuthor: false
   - type: DividerSection
     colors: colors-d
