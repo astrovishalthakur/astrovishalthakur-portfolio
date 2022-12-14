@@ -56,30 +56,6 @@ sections:
       actions:
         justifyContent: flex-start
     backgroundSize: full
-  - type: QuoteSection
-    colors: colors-c
-    quote: >+
-      “Gentlemen, you need to put the armour plate where the bullet holes aren’t
-      because that’s where the holes were on the planes that didn’t return.”
-
-    name: Abraham Wald
-    title: Hungarian Mathematician
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-9
-          - pb-9
-          - pr-4
-          - pl-4
-        justifyContent: center
-      quote:
-        textAlign: center
-      name:
-        textAlign: center
-      title:
-        textAlign: center
   - elementId: ''
     colors: colors-c
     variant: variant-a
@@ -124,6 +100,30 @@ sections:
     showReadMoreLink: true
     readMoreLinkLabel: Join adventure
     showAuthor: false
+  - type: QuoteSection
+    colors: colors-c
+    quote: >+
+      “Gentlemen, you need to put the armour plate where the bullet holes aren’t
+      because that’s where the holes were on the planes that didn’t return.”
+
+    name: Abraham Wald
+    title: Hungarian Mathematician
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-9
+          - pb-9
+          - pr-4
+          - pl-4
+        justifyContent: center
+      quote:
+        textAlign: center
+      name:
+        textAlign: center
+      title:
+        textAlign: center
   - type: TextSection
     colors: colors-e
     variant: variant-a
