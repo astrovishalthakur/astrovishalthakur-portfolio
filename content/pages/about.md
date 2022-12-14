@@ -39,7 +39,7 @@ sections:
   - elementId: ''
     colors: colors-b
     quote: |2
-              "I'm not smart, I'm just passionately curious."
+          "I'm not smart, I'm just passionately curious."
     backgroundImage:
       type: BackgroundImage
       url: /images/bg.webp
