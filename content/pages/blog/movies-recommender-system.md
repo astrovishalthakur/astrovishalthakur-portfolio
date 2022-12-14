@@ -8,7 +8,8 @@ colors: colors-d
 date: '2022-12-14'
 excerpt: >-
   Have you ever wondered how youtube recommends you videos so accurately that
-  makes you wonder how it is working in the background. 
+  makes you wonder how it is working in the background. It's done by something
+  called recommender system.
 featuredImage:
   type: ImageBlock
   url: /images/hero.webp
