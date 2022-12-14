@@ -40,7 +40,6 @@ sections:
     colors: colors-d
     elementId: ''
     variant: variant-c
-    subtitle: Featured people section example
     actions: []
     people:
       - content/data/team/desmond-eagle.json
