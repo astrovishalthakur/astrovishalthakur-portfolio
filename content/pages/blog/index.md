@@ -30,7 +30,7 @@ bottomSections:
       self:
         width: wide
         padding:
-          - pt-3
+          - pt-1
           - pb-3
           - pl-0
           - pr-0
