@@ -4,7 +4,7 @@ title: All Blogs and Projects
 numOfPostsPerPage: 10
 postFeed:
   showDate: true
-  showAuthor: false
+  showAuthor: true
   showExcerpt: false
   showReadMoreLink: true
   variant: variant-d
