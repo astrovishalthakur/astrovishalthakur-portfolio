@@ -40,7 +40,6 @@ sections:
     colors: colors-d
     elementId: ''
     variant: variant-c
-    title: About us
     subtitle: Featured people section example
     actions: []
     people:
