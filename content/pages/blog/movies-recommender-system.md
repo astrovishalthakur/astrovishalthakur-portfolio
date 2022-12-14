@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: Movies Recommender System
 colors: colors-d
-date: '2021-12-02'
+date: '2022-12-14'
 excerpt: >-
   Knowing how to feed yourself in the wild is one of the greatest skills you
   could ever have.
