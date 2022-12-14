@@ -63,7 +63,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "",
+                "label": "mail me",
                 "url": "/",
                 "altText": ""
             },
