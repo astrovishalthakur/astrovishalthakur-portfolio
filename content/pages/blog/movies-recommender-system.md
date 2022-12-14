@@ -13,7 +13,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/mov-rec-sys-img-c82824b4.jpg
-  altText: Post Image
+  altText: mov-rec-
 media:
   type: ImageBlock
   url: /images/mov-rec-sys-img.jpg
