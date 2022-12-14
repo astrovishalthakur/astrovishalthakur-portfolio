@@ -40,7 +40,7 @@ sections:
         altText: github
         url: '/https://github.com/astrovishalthakur'
         showIcon: true
-        icon: arrowRight
+        icon: github
         iconPosition: right
         elementId: ''
     media:
