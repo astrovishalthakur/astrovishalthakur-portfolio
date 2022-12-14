@@ -41,7 +41,7 @@
             {
                 "type": "Button",
                 "label": "Contact me",
-                "url": "mailto:astrovishalthakur+@gmail.com",
+                "url": "mailto:astrovishalthakur+portfolio@gmail.com",
                 "altText": "Contact us",
                 "style": "secondary",
                 "showIcon": true,
