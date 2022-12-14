@@ -31,7 +31,7 @@ sections:
         label: Projects
       - type: Link
         altText: linked in
-        url: '/https://www.linkedin.com/in/vishal-thakur-383838190/'
+        url: 'https://www.linkedin.com/in/vishal-thakur-383838190/'
         showIcon: true
         icon: linkedin
         iconPosition: right
