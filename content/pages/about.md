@@ -50,8 +50,8 @@ sections:
         padding:
           - pt-12
           - pb-12
-          - pl-32
-          - pr-0
+          - pl-12
+          - pr-12
         justifyContent: flex-end
         margin:
           - ml-0
