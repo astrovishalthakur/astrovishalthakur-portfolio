@@ -37,7 +37,7 @@ sections:
         iconPosition: right
         elementId: ''
       - type: Link
-        altText: ''
+        altText: github
         url: '/https://github.com/astrovishalthakur'
         showIcon: false
         icon: arrowRight
