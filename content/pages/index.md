@@ -99,7 +99,7 @@ sections:
   - elementId: ''
     colors: colors-d
     variant: variant-a
-    title: Recent Projects
+    title: Recent Posts
     actions:
       - type: Link
         label: See all projects
