@@ -7,7 +7,7 @@ title: Movies Recommender System
 colors: colors-d
 date: '2022-12-14'
 excerpt: >-
-  Have you ever wondered how youtube recommends you videos so accurately that
+  Have you ever wondered how youtube recommends your videos so accurately that
   makes you wonder how it is working in the background. It's done by something
   called recommender system.
 featuredImage:
