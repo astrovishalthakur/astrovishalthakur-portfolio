@@ -63,7 +63,7 @@ sections:
       because that’s where the holes were on the planes that didn’t return.”
 
     name: Abraham Wald
-    title: Head chef at Parks
+    title: Hungarian Mathematician
     styles:
       self:
         height: auto
