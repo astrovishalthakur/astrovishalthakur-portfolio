@@ -108,6 +108,7 @@ sections:
         icon: arrowRight
     posts:
       - content/pages/blog/movies-recommender-system.md
+      - content/pages/blog/movies-recommender-system.md
     styles:
       self:
         height: auto
