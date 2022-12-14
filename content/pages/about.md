@@ -61,7 +61,7 @@ sections:
           - pt-96
           - pb-10
           - pl-3
-          - pr-4
+          - pr-3
         justifyContent: center
       quote:
         textAlign: center
