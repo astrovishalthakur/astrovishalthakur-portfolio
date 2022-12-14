@@ -15,7 +15,7 @@ featuredImage:
   altText: Post Image
 media:
   type: ImageBlock
-  url: /images/hero.webp
+  url: /images/mov-rec-sys-img.jpg
   altText: Post Image
 bottomSections:
   - elementId: ''
