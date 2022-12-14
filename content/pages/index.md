@@ -29,6 +29,14 @@ sections:
         style: primary
         url: /blog
         label: Projects
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: '/https://www.linkedin.com/in/vishal-thakur-383838190/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/IMG20210823111640.jpg
