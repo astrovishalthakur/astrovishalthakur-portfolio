@@ -139,9 +139,6 @@ sections:
         textAlign: center
       text:
         textAlign: center
-    text: |+
-      dm;sdf'
-
   - type: DividerSection
     colors: colors-d
     styles:
