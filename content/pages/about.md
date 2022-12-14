@@ -54,8 +54,10 @@ sections:
           - pr-0
         justifyContent: flex-end
         margin:
-          - ml-36
-          - mr-36
+          - ml-0
+          - mr-0
+          - mt-0
+          - mb-0
       title:
         textAlign: center
       subtitle:
