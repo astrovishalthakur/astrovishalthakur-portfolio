@@ -31,7 +31,7 @@ sections:
         label: Projects
     media:
       type: ImageBlock
-      url: /images/hero-2.png
+      url: /images/IMG20210823111640.jpg
       altText: Hero image
     backgroundImage: null
     styles:
