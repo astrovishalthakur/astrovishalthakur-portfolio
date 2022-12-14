@@ -135,7 +135,7 @@ sections:
         justifyContent: flex-start
     type: FeaturedPostsSection
     showDate: true
-    showExcerpt: true
+    showExcerpt: false
     showReadMoreLink: true
     readMoreLinkLabel: Join adventure
     showAuthor: false
