@@ -19,7 +19,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: Welcome to my portfolio
+    title: 'Heya, I''m Vishal - a data science student in India.'
     subtitle: 'Data nerd, Learning, Creativity.'
     text: ''
     actions:
