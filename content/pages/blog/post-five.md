@@ -8,7 +8,6 @@ excerpt: >-
   could ever have.
 featuredImage:
   type: ImageBlock
-  url: /images/mov-rec-sys-img-e9c7ad99.jpg
   altText: Post Image
 media:
   type: ImageBlock
