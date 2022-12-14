@@ -90,13 +90,6 @@
             "self": {
                 "width": "narrow"
             }
-        },
-        "logo": {
-            "type": "ImageBlock",
-            "url": "/images/hero.webp",
-            "altText": "altText of the image",
-            "caption": "Caption of the image",
-            "elementId": ""
         }
     },
     "defaultMetaTags": []
