@@ -31,7 +31,7 @@ bottomSections:
         width: full
         padding:
           - pt-3
-          - pb-0
+          - pb-3
           - pl-0
           - pr-0
         justifyContent: center
