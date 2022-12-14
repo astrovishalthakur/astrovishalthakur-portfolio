@@ -148,7 +148,7 @@ sections:
           - pt-4
           - pb-4
           - pl-2
-          - pr-4
+          - pr-2
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
