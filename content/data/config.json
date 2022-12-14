@@ -90,7 +90,8 @@
             "self": {
                 "width": "narrow"
             }
-        }
+        },
+        "text": "hi\n\n"
     },
     "defaultMetaTags": []
 }
