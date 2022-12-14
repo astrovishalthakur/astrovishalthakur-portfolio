@@ -7,8 +7,12 @@ title: Movies Recommender System
 colors: colors-d
 date: '2022-12-14'
 excerpt: >-
-  Knowing how to feed yourself in the wild is one of the greatest skills you
-  could ever have.
+  Reading the local TV guides, renting CDs and DVDs, watching tapes or filmstrip
+  projectors... Today, this is all a relic of the past. The largest movie
+  libraries in the world are all digitized and transferred to online streaming
+  services, like Netflix, HBO, or YouTube. Enhanced with AI-powered tools, these
+  platforms can now assist us with probably the most difficult chore of all —
+  picking a movie.
 featuredImage:
   type: ImageBlock
   url: /images/hero.webp
