@@ -63,12 +63,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "About",
-                "url": "/about",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Blog",
                 "url": "/blog",
                 "altText": ""
