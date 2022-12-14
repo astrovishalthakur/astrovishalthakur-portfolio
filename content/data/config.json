@@ -58,7 +58,7 @@
     "footer": {
         "variant": "variant-b",
         "colors": "colors-d",
-        "title": "Say hello!",
+        "title": "<a>Say hello!",
         "primaryLinks": [],
         "socialLinks": [
             {
