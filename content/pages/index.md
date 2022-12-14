@@ -9,7 +9,6 @@ sections:
     title: 'Heya, I''m Vishal - a data science student in India.'
     subtitle: 'Data nerd, Learning, Creativity.'
     text: ''
-    font-size: 100
     actions:
       - type: Button
         showIcon: true
