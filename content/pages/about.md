@@ -49,7 +49,7 @@ sections:
       opacity: 70
     styles:
       self:
-        height: screen
+        height: auto
         width: full
         margin:
           - mt-0
