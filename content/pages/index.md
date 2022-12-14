@@ -2,19 +2,6 @@
 title: Home
 layout: PageLayout
 sections:
-  - type: DividerSection
-    colors: colors-d
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-0
-          - pb-6
-          - pl-0
-          - pr-0
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: HeroSection
     colors: colors-d
     elementId: ''
