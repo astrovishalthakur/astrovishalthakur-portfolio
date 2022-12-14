@@ -38,7 +38,7 @@ sections:
         elementId: ''
       - type: Link
         altText: github
-        url: '/https://github.com/astrovishalthakur'
+        url: 'https://github.com/astrovishalthakur'
         showIcon: true
         icon: github
         iconPosition: right
