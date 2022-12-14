@@ -8,7 +8,7 @@ sections:
     title: Divider
     styles:
       self:
-        width: wide
+        width: narrow
         padding:
           - pt-12
           - pb-12
