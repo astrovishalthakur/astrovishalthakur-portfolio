@@ -50,7 +50,7 @@ sections:
         padding:
           - pt-7
           - pb-7
-          - pl-36
+          - pl-80
           - pr-0
         justifyContent: flex-end
         margin:
