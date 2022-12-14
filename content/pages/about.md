@@ -38,11 +38,8 @@ sections:
         textAlign: left
   - elementId: ''
     colors: colors-b
-    quote: |+
-      #
-
+    quote: |
       "I'm not smart, I'm just passionately curious."
-
     backgroundImage:
       type: BackgroundImage
       url: /images/bg.webp
