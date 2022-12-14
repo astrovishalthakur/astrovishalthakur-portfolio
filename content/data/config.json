@@ -66,12 +66,6 @@
                 "label": "Blog",
                 "url": "/blog",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Contact me",
-                "url": "mailto:info@astrovishathakur+portfolio@gmail.com",
-                "altText": ""
             }
         ],
         "socialLinks": [
