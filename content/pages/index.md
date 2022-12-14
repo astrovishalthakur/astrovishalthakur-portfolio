@@ -58,9 +58,10 @@ sections:
         justifyContent: flex-start
   - type: QuoteSection
     colors: colors-d
-    quote: >-
-      “It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks.”
+    quote: >+
+      “Gentlemen, you need to put the armour plate where the bullet holes aren’t
+      because that’s where the holes were on the planes that didn’t return.”
+
     name: Isabelle Parks
     title: Head chef at Parks
     styles:
