@@ -60,7 +60,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: We
+    title: 'Welcome to my '
     subtitle: Fresh. Better. Faster.
     text: ''
     actions:
