@@ -63,7 +63,7 @@ sections:
           - pr-3
         justifyContent: center
       quote:
-        textAlign: center
+        textAlign: left
       name:
         fontWeight: '400'
         textAlign: left
