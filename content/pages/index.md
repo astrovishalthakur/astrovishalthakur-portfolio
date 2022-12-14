@@ -34,7 +34,7 @@ sections:
         altText: ''
         url: '/https://www.linkedin.com/in/vishal-thakur-383838190/'
         showIcon: false
-        icon: arrowRight
+        icon: linkedin
         iconPosition: right
         elementId: ''
     media:
