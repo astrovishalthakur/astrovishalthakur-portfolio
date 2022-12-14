@@ -12,7 +12,7 @@ sections:
         padding:
           - pt-0
           - pb-1
-          - pl-4
+          - pl-0
           - pr-4
         justifyContent: center
         borderWidth: 1
