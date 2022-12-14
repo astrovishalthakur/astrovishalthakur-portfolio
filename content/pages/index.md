@@ -5,7 +5,6 @@ sections:
   - type: HeroSection
     colors: colors-d
     elementId: ''
-    backgroundSize: full
     title: 'Heya, I''m Vishal - a data science student in India.'
     subtitle: 'Data nerd, Learning, Creativity.'
     text: ''
