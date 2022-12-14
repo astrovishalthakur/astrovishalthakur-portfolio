@@ -107,7 +107,6 @@ sections:
         showIcon: true
         icon: arrowRight
     posts:
-      - content/pages/blog/post-five.md
       - content/pages/blog/movies-recommender-system.md
       - content/pages/blog/post-four.md
     styles:
