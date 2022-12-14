@@ -103,7 +103,7 @@
             },
             {
                 "type": "Social",
-                "label": "Facebook",
+                "label": "github",
                 "altText": "",
                 "url": "https://github.com/astrovishalthakur",
                 "icon": "github",
