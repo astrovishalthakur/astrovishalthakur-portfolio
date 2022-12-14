@@ -6,9 +6,7 @@ metaTags: []
 title: Movies Recommender System
 colors: colors-d
 date: '2022-12-14'
-excerpt: >-
-  Reading the local TV guides, renting CDs and DVDs, watching tapes or filmstrip
-  projectors... Today, this is all a relic of the past. 
+excerpt: 'Have you ever wondered how '
 featuredImage:
   type: ImageBlock
   url: /images/hero.webp
