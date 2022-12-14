@@ -10,7 +10,7 @@ sections:
       self:
         width: narrow
         padding:
-          - pt-12
+          - pt-3
           - pb-12
           - pl-4
           - pr-4
