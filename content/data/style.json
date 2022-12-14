@@ -18,7 +18,7 @@
     "h3": {
         "size": "3xl",
         "weight": "normal",
-        "decoration": "underline",
+        "decoration": "none",
         "case": "none",
         "letterSpacing": "normal"
     },
