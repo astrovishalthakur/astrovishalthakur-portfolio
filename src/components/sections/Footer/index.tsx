@@ -117,7 +117,7 @@ function FooterVariantB(props) {
                             {logo && <ImageBlock {...logo} className={classNames('max-h-12', { 'mr-2': title })} data-sb-field-path=".logo" />}
                             {title && (
                                 <span className="text-3xl font-medium" data-sb-field-path=".title">
-                                    {title+""}
+                                    {title+"hoha"}
                                 </span>
                             )}
                         </Link>
