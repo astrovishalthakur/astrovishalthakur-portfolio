@@ -30,7 +30,6 @@ sections:
         url: /blog
         label: Projects
       - type: Link
-        label: Learn more
         altText: ''
         url: '/https://www.linkedin.com/in/vishal-thakur-383838190/'
         showIcon: true
