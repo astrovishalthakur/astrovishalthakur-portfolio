@@ -13,7 +13,7 @@ sections:
           - pt-0
           - pb-0
           - pl-1
-          - pr-4
+          - pr-1
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
