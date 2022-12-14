@@ -87,7 +87,7 @@
             {
                 "type": "Link",
                 "label": "mail me",
-                "url": "/blog",
+                "url": "/mailto:astrovishalthakur",
                 "altText": ""
             }
         ],
