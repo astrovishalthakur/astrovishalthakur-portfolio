@@ -60,14 +60,7 @@
         "colors": "colors-d",
         "title": "Say hello",
         "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Contact me",
-                "url": "mailto:info@astrovishathakur+portfolio@gmail.com",
-                "altText": ""
-            }
-        ],
+        "primaryLinks": [],
         "socialLinks": [
             {
                 "type": "Social",
