@@ -28,6 +28,17 @@
                 "altText": ""
             },
             {
+                "type": "Button",
+                "label": "Learn more",
+                "altText": "",
+                "url": "dm",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
                 "type": "Link",
                 "altText": "",
                 "url": "/blog",
