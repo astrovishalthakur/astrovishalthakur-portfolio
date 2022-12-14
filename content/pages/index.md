@@ -62,7 +62,7 @@ sections:
       “Gentlemen, you need to put the armour plate where the bullet holes aren’t
       because that’s where the holes were on the planes that didn’t return.”
 
-    name: Isabelle Parks
+    name: Abraham Wald
     title: Head chef at Parks
     styles:
       self:
