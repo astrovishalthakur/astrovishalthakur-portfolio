@@ -3,7 +3,7 @@ title: Home
 layout: PageLayout
 sections:
   - type: DividerSection
-    colors: colors-b
+    colors: colors-a
     elementId: ''
     title: Divider
     styles:
