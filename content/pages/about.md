@@ -36,34 +36,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: FeaturedPeopleSection
-    colors: colors-d
-    elementId: ''
-    variant: variant-c
-    actions: []
-    people:
-      - content/data/team/desmond-eagle.json
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-7
-          - pb-0
-          - pl-0
-          - pr-0
-        justifyContent: flex-end
-        margin:
-          - ml-0
-          - mr-0
-          - mt-0
-          - mb-0
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      actions:
-        justifyContent: center
   - elementId: ''
     colors: colors-b
     quote: |-
