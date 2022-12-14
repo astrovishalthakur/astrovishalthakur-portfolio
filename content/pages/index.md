@@ -28,7 +28,7 @@ sections:
         url: 'https://github.com/astrovishalthakur'
         showIcon: true
         icon: github
-        iconPosition: right
+        iconPosition: left
         elementId: ''
     media:
       type: ImageBlock
