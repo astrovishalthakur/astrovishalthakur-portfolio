@@ -30,14 +30,6 @@ sections:
         icon: github
         iconPosition: right
         elementId: ''
-      - type: Link
-        label: medium
-        altText: medium
-        url: 'https://medium.com/@astrovishalthakur'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
     media:
       type: ImageBlock
       url: /images/IMG20210823111640.jpg
