@@ -77,7 +77,7 @@ I created this project as a class assignment. It's a content-based movie recomme
 
 Movies data was downloaded from Kaggle.
 
-# Steps taken in creating the projects were as follows
+### Steps taken in creating the projects were as follows
 
 1.  Import data from Kaggle.
 
@@ -88,7 +88,5 @@ Movies data was downloaded from Kaggle.
 4.  Apply algorithms and find one which performs best.
 
 I used cosine similarity to find movies which are similar to each other.
-
-
 
 You can check the project on [Github](https://github.com/astrovishalthakur/Mov-Rec-Sys-Advanced).
