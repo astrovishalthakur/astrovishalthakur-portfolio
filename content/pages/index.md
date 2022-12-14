@@ -49,7 +49,7 @@ sections:
         flexDirection: row
       title:
         textAlign: left
-        fontWeight: 
+        fontWeight: 400
       subtitle:
         textAlign: left
       text:
