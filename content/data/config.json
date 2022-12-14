@@ -100,6 +100,15 @@
                 "label": "Facebook",
                 "icon": "facebook",
                 "url": "https://www.facebook.com/profile.php?id=100012901444796"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://github.com/astrovishalthakur",
+                "icon": "github",
+                "style": "link",
+                "elementId": ""
             }
         ],
         "legalLinks": [
