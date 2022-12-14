@@ -61,6 +61,13 @@
         "title": "Say hello",
         "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
         "primaryLinks": [],
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Home",
+                "url": "/",
+                "altText": ""
+            },
         "socialLinks": [
             {
                 "type": "Social",
