@@ -42,7 +42,7 @@
                 "type": "Button",
                 "label": "Contact me",
                 "url": "mailto:astrovishalthakur+portfolio@gmail.com",
-                "altText": "Contact me",
+                "altText": "Contact us",
                 "style": "secondary",
                 "showIcon": true,
                 "icon": "arrowRight",
@@ -58,8 +58,34 @@
     "footer": {
         "variant": "variant-b",
         "colors": "colors-d",
-        "title": "Say hello!",
-        "primaryLinks": [],
+        "title": "Say hello",
+        "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Home",
+                "url": "/",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "About",
+                "url": "/about",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "url": "/blog",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Contact me",
+                "url": "mailto:info@astrovishathakur+portfolio@gmail.com",
+                "altText": ""
+            }
+        ],
         "socialLinks": [
             {
                 "type": "Social",
@@ -83,7 +109,7 @@
                 "icon": "github",
                 "style": "link",
                 "elementId": ""
-            },
+            }
         ],
         "legalLinks": [],
         "styles": {
