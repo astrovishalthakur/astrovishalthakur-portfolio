@@ -6,7 +6,9 @@ metaTags: []
 title: Movies Recommender System
 colors: colors-d
 date: '2022-12-14'
-excerpt: 'Have you ever wondered how youtube recommends you videos so accurately that '
+excerpt: >-
+  Have you ever wondered how youtube recommends you videos so accurately that
+  makes you wonder how it is working in the background. 
 featuredImage:
   type: ImageBlock
   url: /images/hero.webp
