@@ -91,10 +91,6 @@
                 "label": "Contact me",
                 "url": "mailto:astrovishalthakur+portfolio@gmail.com",
                 "altText": "Contact me",
-                "style": "secondary",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right"
             }
         ],
         "legalLinks": [],
