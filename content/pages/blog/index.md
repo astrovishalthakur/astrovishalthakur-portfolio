@@ -23,7 +23,7 @@ styles:
     textAlign: center
 bottomSections:
   - type: DividerSection
-    colors: colors-d
+    colors: colors-b
     elementId: ''
     title: Divider
     styles:
