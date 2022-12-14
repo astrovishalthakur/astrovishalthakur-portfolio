@@ -19,7 +19,7 @@ sections:
     colors: colors-d
     variant: variant-a
     title: About me
-    text: "**Hello there! This is Vishal \U0001F64C\U0001F3FD**\n\nI'm a Data Science student based in India. So yeah, I'm a data nerd, and I like sharing knowledge about Data science skills, tech and stuff.\n\nIn my free time, I like watching vlogs and listening to audiobooks. I hope to pursue my masters in Deep Learning with computer vision in focus.\n\n***and yeah, I Love Cats!!!***\n\n******\n\n******![](/images/IMG20201106144319-0fad01e8.jpg)\n"
+    text: "**Hello there! This is Vishal \U0001F64C\U0001F3FD**\n\nI'm a Data Science student based in India. So yeah, I'm a data nerd, and I like sharing knowledge about Data science skills, tech and stuff.\n\nIn my free time, I like watching vlogs and listening to audiobooks. I hope to pursue my masters in Deep Learning with computer vision in focus.\n\n***and yeah, I Love Cats!!!***\n\n***\n\n\\*\\*\\*\\*\\*\\*![](/images/IMG20201106144319-0fad01e8.jpg)\n\n<img src=\"/images/IMG20201106144319-0fad01e8.jpg\"  width=\"600\" height=\"300\">"
     styles:
       self:
         height: auto
