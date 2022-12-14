@@ -33,7 +33,7 @@ sections:
         label: Learn more
         altText: ''
         url: '/https://www.linkedin.com/in/vishal-thakur-383838190/'
-        showIcon: false
+        showIcon: true
         icon: linkedin
         iconPosition: right
         elementId: ''
