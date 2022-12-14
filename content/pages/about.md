@@ -31,7 +31,7 @@ sections:
           - pl-4
         justifyContent: center
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
         textAlign: left
       text:
