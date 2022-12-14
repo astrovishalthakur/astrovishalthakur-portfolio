@@ -20,7 +20,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Welcome to my portfolio
-    subtitle: 'Data nerd, Learning, Creativity'
+    subtitle: 'Data nerd, Learning, Creativity.'
     text: ''
     actions:
       - type: Button
