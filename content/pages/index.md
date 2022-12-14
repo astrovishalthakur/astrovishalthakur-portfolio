@@ -44,15 +44,6 @@ sections:
         icon: github
         iconPosition: left
         elementId: ''
-      - type: Button
-        label: Learn more
-        altText: ''
-        url: /hello
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
     media:
       type: ImageBlock
       url: /images/IMG20210823111640.jpg
