@@ -44,6 +44,15 @@ sections:
         icon: github
         iconPosition: left
         elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /hello
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
       - type: Link
         label: Learn more
         altText: ''
