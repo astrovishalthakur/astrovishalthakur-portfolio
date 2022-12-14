@@ -49,7 +49,7 @@ sections:
         width: narrow
         padding:
           - pt-7
-          - pb-0
+          - pb-7
           - pl-0
           - pr-0
         justifyContent: flex-end
