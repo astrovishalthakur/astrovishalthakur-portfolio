@@ -88,9 +88,13 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "mail me",
+                "label": "Contact me",
                 "url": "mailto:astrovishalthakur+portfolio@gmail.com",
                 "altText": "Contact me",
+                "style": "secondary",
+                "showIcon": true,
+                "icon": "arrowRight",
+                "iconPosition": "right"
             }
         ],
         "legalLinks": [],
