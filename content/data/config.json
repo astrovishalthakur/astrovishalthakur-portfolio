@@ -84,7 +84,7 @@
                 "style": "link",
                 "elementId": ""
             },
-            "type": "Link",
+                "type": "Link",
                 "label": "Projects",
                 "url": "/blog",
                 "altText": ""
