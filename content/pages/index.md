@@ -31,7 +31,7 @@ sections:
         iconPosition: right
         elementId: ''
       - type: Link
-        label: Learn more
+        label: medium
         altText: ''
         url: 'https://medium.com/@astrovishalthakur'
         showIcon: false
