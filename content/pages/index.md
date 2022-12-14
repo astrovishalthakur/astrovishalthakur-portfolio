@@ -20,7 +20,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Welcome to my portfolio
-    subtitle: 'Data science, ML, DL, CV, NLP.'
+    subtitle: 'Data nerd,'
     text: ''
     actions:
       - type: Button
