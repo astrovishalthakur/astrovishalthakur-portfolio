@@ -57,7 +57,7 @@
     },
     "footer": {
         "variant": "variant-b",
-        "colors": "colors-d",
+        "colors": "colors-b",
         "title": "Say hello!",
         "primaryLinks": [],
         "socialLinks": [
