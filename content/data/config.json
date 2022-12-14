@@ -30,7 +30,7 @@
             {
                 "type": "Link",
                 "altText": "",
-                "url": "/Blog",
+                "url": "/blog",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
