@@ -73,4 +73,8 @@ Well, you don’t have to worry about that anymore. It’s officially showtime f
 
 A movie recommendation system, or a movie recommender system, is an ML-based approach to filtering or predicting the users’ film preferences based on their past choices and behavior. It’s an advanced filtration mechanism that predicts the possible movie choices of the concerned user and their preferences towards a domain-specific item, aka movie.
 
-We at Label Your Data have gathered the most up-to-date information about modern movie recommendation systems and how to build them using different ML solutions. We’ve also touched upon some of the most popular examples of these systems that help many movie fans today stay up to date with all the new releases as well as classics of the cinematography. Just grab your popcorn and enjoy the read!
+
+
+I created this project as a class assignment. It's a content based movie recommender system which recommends movies based on movies liked by the user.
+
+Movies data was downloaded from kaggle. 
