@@ -41,7 +41,7 @@
             {
                 "type": "Button",
                 "label": "Contact me",
-                "url": "mailto:info@lorem.mail",
+                "url": "mailto:astrovishalthakur@gmail.com",
                 "altText": "Contact us",
                 "style": "secondary",
                 "showIcon": true,
