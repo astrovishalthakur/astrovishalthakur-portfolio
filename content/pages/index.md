@@ -32,7 +32,7 @@ sections:
         elementId: ''
       - type: Link
         label: medium
-        altText: ''
+        altText: medium
         url: 'https://medium.com/@astrovishalthakur'
         showIcon: false
         icon: arrowRight
