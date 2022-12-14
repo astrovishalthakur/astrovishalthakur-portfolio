@@ -97,7 +97,7 @@ sections:
       title:
         textAlign: center
   - elementId: ''
-    colors: colors-a
+    colors: colors-d
     variant: variant-a
     title: Recent Projects
     actions:
