@@ -84,12 +84,6 @@
                 "style": "link",
                 "elementId": ""
             },
-            {
-                "type": "Link",
-                "label": "mail me",
-                "url": "mailto:astrovishalthakur+portfolio@gmail.com",
-                "altText": "Contact me"
-            }
         ],
         "legalLinks": [],
         "styles": {
