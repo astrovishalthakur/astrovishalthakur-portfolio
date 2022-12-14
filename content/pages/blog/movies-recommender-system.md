@@ -93,5 +93,5 @@ Movies data was downloaded from Kaggle.
 
 I used cosine similarity to find movies which are similar to each other.
 
-### **You can check the project on **[**Github**](https://github.com/astrovishalthakur/Mov-Rec-Sys-Advanced)**.**
+### **You can check the project on** [Github](https://github.com/astrovishalthakur/Mov-Rec-Sys-Advanced).
 
