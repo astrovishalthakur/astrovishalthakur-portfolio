@@ -48,7 +48,7 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-0
+          - pt-7
           - pb-0
           - pl-0
           - pr-0
