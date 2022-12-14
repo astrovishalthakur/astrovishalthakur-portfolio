@@ -57,7 +57,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: QuoteSection
-    colors: colors-e
+    colors: colors-c
     quote: >+
       “Gentlemen, you need to put the armour plate where the bullet holes aren’t
       because that’s where the holes were on the planes that didn’t return.”
