@@ -1,6 +1,5 @@
 {
     "type": "Person",
-    "firstName": "Vishal",
     "image": {
         "type": "ImageBlock",
         "url": "/images/IMG20201106144319.jpg",
