@@ -143,7 +143,7 @@ sections:
     colors: colors-d
     styles:
       self:
-        width: narrow
+        width: full
         padding:
           - pt-4
           - pb-4
