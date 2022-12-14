@@ -1,6 +1,6 @@
 {
     "type": "ThemeStyle",
-    "fontHeadlines": "fontSecondary",
+    "fontHeadlines": "fontPrimary",
     "h1": {
         "size": "6xl",
         "weight": "medium",
