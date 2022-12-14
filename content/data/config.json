@@ -58,34 +58,8 @@
     "footer": {
         "variant": "variant-b",
         "colors": "colors-d",
-        "title": "Say hello",
-        "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Home",
-                "url": "/",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "About",
-                "url": "/about",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Contact me",
-                "url": "mailto:info@astrovishathakur+portfolio@gmail.com",
-                "altText": ""
-            }
-        ],
+        "title": "Say hello!",
+        "primaryLinks": [],
         "socialLinks": [
             {
                 "type": "Social",

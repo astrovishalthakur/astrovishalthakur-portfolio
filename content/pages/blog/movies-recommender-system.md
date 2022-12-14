@@ -81,7 +81,7 @@ I created this project as a class assignment. It's a content-based movie recomme
 
 Movies data was downloaded from Kaggle.
 
-### Steps taken in creating the projects were as follows
+### Steps taken in creating the project were as follows
 
 1.  Import data from Kaggle.
 
