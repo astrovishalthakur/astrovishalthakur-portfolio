@@ -2,7 +2,6 @@
     "type": "Person",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/IMG20201106144319.jpg",
         "altText": "Me with cats"
     },
     "firstName": "."
