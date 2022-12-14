@@ -28,7 +28,7 @@ bottomSections:
     title: Divider
     styles:
       self:
-        width: full
+        width: wide
         padding:
           - pt-3
           - pb-3
