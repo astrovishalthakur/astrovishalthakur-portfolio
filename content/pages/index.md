@@ -74,7 +74,7 @@ sections:
           - pr-4
           - pl-4
         justifyContent: center
-        borderRadius: xx-small
+        borderRadius: none
       quote:
         textAlign: center
       name:
