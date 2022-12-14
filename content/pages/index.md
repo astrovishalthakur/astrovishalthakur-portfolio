@@ -24,7 +24,6 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Join adventure
         showIcon: true
         icon: arrowRight
         style: primary
