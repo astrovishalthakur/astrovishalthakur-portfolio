@@ -1,5 +1,5 @@
 ---
-title: About
+title: Certificates
 layout: PageLayout
 sections:
   - type: DividerSection
