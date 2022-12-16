@@ -77,13 +77,11 @@ sections:
     elementId: ''
     variant: variant-a
     subtitle: ''
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      \<iframe
+      src="https://drive.google.com/file/d/141j66F4MJdXQZWnlJxUajJOkmCBOydck/view?usp=share_link"
+      width="100%" height="500px">\</iframe>
+
     styles:
       self:
         height: auto
