@@ -86,19 +86,7 @@ sections:
       width="100%" height="500px">\</iframe>
 
 
-      `<html>`
-
-
-      `<body>`
-
-
-      `<h1>Hello</h1>`
-
-
-      `</body>`
-
-
-      `</html>`
+      \<h1>hello\</h1>
     styles:
       self:
         height: auto
