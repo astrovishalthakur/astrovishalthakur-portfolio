@@ -29,6 +29,16 @@
             },
             {
                 "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/https://drive.google.com/drive/folders/1-f6PDn4RSU4nTd8mNAzRdeH1PtCOTEOg?usp=sharing",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "altText": "",
                 "url": "/blog",
                 "showIcon": false,
