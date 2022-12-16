@@ -72,37 +72,6 @@ sections:
         fontWeight: '400'
         textAlign: left
     type: QuoteSection
-  - type: TextSection
-    colors: colors-d
-    elementId: ''
-    variant: variant-a
-    subtitle: ''
-    text: >+
-      \<object
-      data="https://drive.google.com/file/d/141j66F4MJdXQZWnlJxUajJOkmCBOydck/view?usp=share_link"
-      type="application/pdf" width="700px" height="700px">
-          \<embed src="https://drive.google.com/file/d/141j66F4MJdXQZWnlJxUajJOkmCBOydck/view?usp=sharing">
-              \<p>This browser does not support PDFs. Please download the PDF to view it: \<a href="https://drive.google.com/file/d/141j66F4MJdXQZWnlJxUajJOkmCBOydck/view?usp=sharing">Download PDF\</a>.\</p>
-          \</embed>\</object>
-
-
-
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: DividerSection
     colors: colors-d
     styles:
