@@ -77,11 +77,15 @@ sections:
     elementId: ''
     variant: variant-a
     subtitle: ''
-    text: >+
+    text: >
+      Certificates under my belt.
+
+
+
+
       \<iframe
       src="https://drive.google.com/file/d/141j66F4MJdXQZWnlJxUajJOkmCBOydck/view?usp=share_link"
       width="100%" height="500px">\</iframe>
-
     styles:
       self:
         height: auto
